@@ -1,0 +1,2 @@
+# Python-Block-Game-Server
+ Explored and created a server which players can interact with each other in the square.   The main function of this project was to explore creating a server, how to handle clients   disconnecting or losing connection and the server stopping.   Sending and receiving data to be converted as str or using pickle to send python objects.   Code can be used as long as credit is given.
